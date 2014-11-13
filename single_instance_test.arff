@@ -1,0 +1,34 @@
+@relation out2
+
+@attribute nu_idade numeric
+@attribute tp_sexo {F,M}
+@attribute in_vesper numeric
+@attribute in_noturno numeric
+@attribute tp_def_fis numeric
+@attribute tp_def_vis numeric
+@attribute tp_def_aud numeric
+@attribute nt_ger numeric
+@attribute co_rs_s1 {A,B,C,D,E}
+@attribute co_rs_s2 {A,C,B,D,E}
+@attribute co_rs_s3 {B,C,A,D,F,E}
+@attribute co_rs_s4 {D,C,E,G,B,A,H,F}
+@attribute co_rs_s5 {D,E,F,C,H,B,G,A}
+@attribute co_rs_s6 {B,D,A,C,E}
+@attribute co_rs_s7 {A,E,D,C,B}
+@attribute co_rs_s8 {D,A,B,C}
+@attribute co_rs_s9 {B,C,A}
+@attribute co_rs_s10 {E,A,C,F,B,G,J,H,I,D}
+@attribute co_rs_s11 {E,B,A,C,D}
+@attribute co_rs_s12 {A,E,C,F,D,B}
+@attribute co_rs_s13 {C,A,D,B,E,F}
+@attribute co_rs_s14 {D,B,E,C,F,A}
+@attribute co_rs_s15 {RN,CE,GO,RS,SP,RJ,SC,AM,PR,ES,MG,BA,PE,SE,DF,MA,PA,PB,MS,TO,MT,..,PI,AL,RO,RR,AC,AP,EX}
+@attribute co_rs_s16 {A,B,C,D}
+@attribute co_rs_s17 {D,E,A,B,C}
+@attribute co_rs_s18 {A,D,B,C,E}
+@attribute co_rs_s19 {C,B,A,D,E}
+@attribute co_rs_s20 {C,B,A,D,E}
+@attribute co_rs_s21 {B,D,A,E,C}
+
+@data
+27,M,1,0,0,0,0,38.9,A,A,A,A,G,C,E,C,B,?,E,A,B,B,RS,C,A,A,E,A,A
