@@ -4,10 +4,10 @@ Ipython notebook contendo análise estatística da base de dados do enade 2012
 
 #Prérequisitos
 
-python 2.7+
-ipython notebook
-matlabplotlib
-pandas
+* python 2.7+
+* ipython notebook
+* matlabplotlib
+* pandas
 
 #Links
 
